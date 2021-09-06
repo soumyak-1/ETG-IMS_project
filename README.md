@@ -4,7 +4,7 @@ This Repository is having all the codes with JSON files for making an Inventory 
 # ABOUT THE REPOSITORY 
 ## I've made an Inventory management system which is working on NOSQL based database
 1. I've used JSON file system for it.
-2. New inventory can be added.
+2. New inventory can be added. 
 3. Product can also be purchased.
 
 # FEATURES
